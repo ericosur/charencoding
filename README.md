@@ -1,0 +1,2 @@
+# charencoding
+character encoding test
